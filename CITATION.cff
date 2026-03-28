@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Tourism Uncertainty Index (TUI)"
+message: "If you use this project, please cite it as below."
+type: software
+
+authors:
+  - family-names: "Gocer"
+    given-names: "Ismet"
+
+affiliation: "Southampton Solent University"
+
+version: "v1.0.0"
+date-released: 2026-03-28
+
+abstract: >
+  This project develops a Tourism Uncertainty Index (TUI) using text mining,
+  natural language processing, and contextual keyword analysis. The index
+  measures uncertainty in the tourism sector based on large-scale textual data.
+
+keywords:
+  - tourism
+  - uncertainty index
+  - NLP
+  - text mining
+  - econometrics
+
+license: MIT
+
+repository-code: "https://github.com/ismetgocer1/Tourism_Uncertainty_Index"
