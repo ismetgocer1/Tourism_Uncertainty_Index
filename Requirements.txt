@@ -1,0 +1,9 @@
+===== ENVIRONMENT SUMMARY =====
+Python: 3.12.3
+OS: Windows 11
+spaCy: 3.8.11
+pandas: 2.2.2
+PyMuPDF: 1.25.4:
+spaCy model (en_core_web_lg): 3.7.1
+CPU cores: 12
+RAM (GB): 32
